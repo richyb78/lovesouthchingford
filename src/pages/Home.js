@@ -11,8 +11,8 @@ function Home() {
           Love South Chingford E4 is a not-for-profit group of volunteers interested
           in making the South Chingford area a pleasant place to be.
         </p>
-        <Link>
-        <button>Get Involved!</button>
+        <Link to="/about">
+        <button>Find Out More!</button>
         </Link>
       </div>
       

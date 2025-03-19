@@ -12,3 +12,8 @@
   .footer p {
     color: black;
   }
+
+  .socialMedia svg {
+    font-size: 50px;
+    cursor: pointer;
+  }
