@@ -48,6 +48,7 @@
     border: none;
     border-bottom: 1px solid #121619;
     color: black;
+    font-family: Arial, Helvetica, sans-serif;
   }
   input::placeholder,
   textarea::placeholder {
@@ -69,9 +70,22 @@
     width: 140px;
     height: 40px;
     border: none;
-    background-color: black;
+    background-color: #40A674;
     border-radius: 10px;
     color: white;
     font-size: 15px;
     cursor: pointer;
   }
+
+  @media only screen and (max-width: 1000px) {
+
+    .contact{
+      display:grid;
+      height: 80vh;
+    }
+    .contact .leftSide {
+      height: 160px;
+    }
+  };
+
+

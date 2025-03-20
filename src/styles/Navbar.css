@@ -14,8 +14,7 @@
   }
   
   .navbar .leftSide img {
-    width: 200px;
-    
+    width: 150px;
   }
   
   .navbar .rightSide {
@@ -44,10 +43,15 @@
   }
   
   .navbar #open {
-    padding-left: 0px;
+    padding-left: 10px;
   }
   .navbar #open img {
     display: none;
+  }
+
+  .navbar #open .logoSmall {
+    display: block;
+    width: 50px;
   }
 
   .navbar #open h2 {
@@ -60,7 +64,7 @@
   
   .navbar #open .hiddenLinks {
     display: inherit;
-    margin-left: 2%;
+    flex-direction: column;
   }
   
   .navbar #close .hiddenLinks {
@@ -69,7 +73,7 @@
   
   .navbar #open a {
     width: 80px;
-    margin: 5px;
+    margin: 3px;
   }
   @media only screen and (max-width: 1300px) {
     .navbar .rightSide a {
