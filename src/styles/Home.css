@@ -43,6 +43,10 @@
 
   
   @media only screen and (max-width: 900px) {
+
+    .home {
+      height: 80vh;
+    }
     .headerContainer p {
       font-size: 30px;
     }

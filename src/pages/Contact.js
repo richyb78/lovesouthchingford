@@ -1,6 +1,6 @@
 import React from 'react'
 import "../styles/Contact.css";
-import ContactPic from "../assets/contactpic.jpg"
+import ContactPic from "../assets/contactpic.jpg";
 
 function Contact() {
   return (
@@ -9,6 +9,8 @@ function Contact() {
       </div>
       <div className="rightSide">
         <h2>Contact Us</h2>
+        <p>If you would like to get involved please complete the form below or <br></br>
+        alternatively email us at lovesouthchingforde4@gmail.com.</p>
         <form id="contact-form" method="post">
                 <label htmlFor="name">Full Name</label>
                 <input name="name" placeholder="Enter Name" type="text" />
