@@ -10,9 +10,11 @@
 @media screen and (max-width: 850px) {
     .galleryTitle {
        text-align: center;
+       margin-left: 0;
     }
     .galleryblurb {
         text-align: center;
+        margin-left: 0;
     }
 }
     
