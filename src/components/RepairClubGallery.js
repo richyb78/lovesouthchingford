@@ -8,16 +8,16 @@ function RepairClubGallery() {
   return (
    <div className="row">
             <div className="column">
-                <img src={RepairClub1} alt="repair club picture"/>
+                <img src={RepairClub1} />
             </div>
             <div className="column">
-                <img src={RepairClub2} alt="repair club picture"/>
+                <img src={RepairClub2} />
             </div>
             <div className="column">
-                <img src={RepairClub3} alt="repair club picture"/>
+                <img src={RepairClub3} />
             </div>
             <div className="column">
-                <img src={RepairClub1} alt="repair club picture"/>
+                <img src={RepairClub1} />
             </div>
         </div>
   )
