@@ -16,14 +16,13 @@ function Gallery() {
                                    </p>
       <GardeningGallery />
       <h3 className="galleryTitle">Easter at Chingford Mount</h3>
-      <p className="galleryblurb">We have organised multiple Easter Fairs situated around The Crescent. The Easter markets bring exitement 
-                                  as families browsed colorful handmade crafts, sample seasonal treats, 
-                                  and joined in festive activities celebrating spring.
+      <p className="galleryblurb">We have organised Easter markets situated around Albert Crescent. The Easter markets bring exitement 
+                                  as families browse colorful handmade crafts, sample seasonal treats, 
+                                  and joine in festive activities celebrating spring.
                                    </p>
       <EasterGallery />
-      <h3 className="galleryTitle">Christmas Markets</h3>
-      <p className="galleryblurb">Our Christmas markets are a great success as visitors stroll through charming stalls filled with handcrafted gifts, 
-                                  warm seasonal treats, and joyful holiday music.
+      <h3 className="galleryTitle">Christmas Tree Switch on Event</h3>
+      <p className="galleryblurb">Our Christmas switch on event was a great success and included many stalls, a father Christmas and real snow!
                                   </p>
       <XmasGallery />
       <h3 className="galleryTitle">The Repair Club</h3>
