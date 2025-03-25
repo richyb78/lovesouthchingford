@@ -2,13 +2,14 @@ import React from 'react'
 import "../styles/About.css";
 import AboutPic from "../assets/aboutpic.jpg"
 import LogoSmall from "../assets/lsclogosmall.png";
+import HandsLogo from "../assets/handslogo.png";
 
 function About() {
   return (
     <div className="about">
       <div className="aboutTop" style={{backgroundImage: `url(${AboutPic})`}}></div>
       <div className="aboutBottom">
-      <img src={LogoSmall} alt="small love south chingford logo" className="logoSmall"/>
+      <img src={HandsLogo} alt="love south chingford logo" className="logoSmall"/>
       <h2>About Us</h2>
       <h3>
           Love South Chingford E4 (LSCE4) is a not-for-profit group of volunteers interested
