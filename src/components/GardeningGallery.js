@@ -1,5 +1,5 @@
 import React from 'react'
-import "../styles/GardeningGallery.css";
+import "../styles/Galleries.css";
 import Gardening1 from "../assets/Gardening/Gardening1.JPG";
 import Gardening2 from "../assets/Gardening/Gardening2.JPG";
 import Gardening3 from "../assets/Gardening/Gardening3.JPG";

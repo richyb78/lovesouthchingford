@@ -1,5 +1,5 @@
 import React from 'react'
-import "../styles/XmasGallery.css";
+import "../styles/Galleries.css";
 import XmasMarket1 from "../assets/XmasMarkets/XmasMarket1.JPG";
 import XmasMarket2 from "../assets/XmasMarkets/XmasMarket2.JPG";
 import XmasMarket3 from "../assets/XmasMarkets/XmasMarket3.JPG";
