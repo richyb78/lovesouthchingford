@@ -44,15 +44,10 @@
   }
   
   .navbar #open {
-    padding-left: 10px;
+    padding-left: 20px;
   }
   .navbar #open img {
     display: none;
-  }
-
-  .navbar #open .logoSmall {
-    display: block;
-    width: 50px;
   }
 
   .navbar #open h1 {
@@ -66,6 +61,7 @@
   .navbar #open .hiddenLinks {
     display: inherit;
     flex-direction: column;
+    
   }
   
   .navbar #close .hiddenLinks {
@@ -73,8 +69,7 @@
   }
   
   .navbar #open a {
-    width: 80px;
-    margin: 3px;
+    margin: 5px;
   }
   @media only screen and (max-width: 1300px) {
     .navbar .rightSide a {

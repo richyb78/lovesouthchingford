@@ -16,7 +16,6 @@ function Navbar() {
         <img src={Logo} alt="love south chingford logo" />
         <h1>Love South Chingford</h1>
         <div className="hiddenLinks">
-            <img src={Logo} alt="small love south chingford logo" className="logoSmall"/>
             <Link to="/">Home</Link>
             <Link to="/about">About</Link>
             <Link to="/gallery">Gallery</Link>
