@@ -10,16 +10,16 @@ function EasterGallery() {
   return (
       <div className="row">
           <div className="column">
-              <img src={Easter1} />
+              <img src={Easter1} alt="Easter faire Pictures"/>
           </div>
           <div className="column">
-              <img src={Easter2} />
+              <img src={Easter2} alt="Easter faire Pictures"/>
           </div>
           <div className="column">
-              <img src={Easter3} />
+              <img src={Easter3} alt="Easter faire Pictures"/>
           </div>
           <div className="column">
-              <img src={Easter4} />
+              <img src={Easter4} alt="Easter faire Pictures"/>
           </div>
       </div>
   )

@@ -19,25 +19,25 @@ function GardeningGallery() {
     <div>
     <div className="row">
         <div className="column">
-            <img src={Gardening1} />
-            <img src={Gardening2} />
-            <img src={Gardening3} />
+            <img src={Gardening1} alt="gardening pictures"/>
+            <img src={Gardening2} alt="gardening pictures"/>
+            <img src={Gardening3} alt="gardening pictures"/>
         </div>
         <div className="column">
-            <img src={Gardening4} />
-            <img src={Gardening5} />
-            <img src={Gardening6} />
+            <img src={Gardening4} alt="gardening pictures"/>
+            <img src={Gardening5} alt="gardening pictures"/>
+            <img src={Gardening6} alt="gardening pictures"/>
         </div>
         <div className="column">
-            <img src={Gardening7} />
-            <img src={Gardening8} />
-            <img src={Gardening9} />
+            <img src={Gardening7} alt="gardening pictures"/>
+            <img src={Gardening8} alt="gardening pictures"/>
+            <img src={Gardening9} alt="gardening pictures"/>
         </div>
         <div className="column">
-            <img src={Gardening10} />
-            <img src={Gardening11} />
-            <img src={Gardening12} />
-            <img src={Gardening13} />
+            <img src={Gardening10} alt="gardening pictures"/>
+            <img src={Gardening11} alt="gardening pictures"/>
+            <img src={Gardening12} alt="gardening pictures"/>
+            <img src={Gardening13} alt="gardening pictures"/>
         </div>
         </div>
     </div>
