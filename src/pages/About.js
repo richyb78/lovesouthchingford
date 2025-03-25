@@ -1,7 +1,6 @@
 import React from 'react'
 import "../styles/About.css";
 import AboutPic from "../assets/aboutpic.jpg"
-import LogoSmall from "../assets/lsclogosmall.png";
 import HandsLogo from "../assets/handslogo.png";
 
 function About() {
