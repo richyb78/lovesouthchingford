@@ -18,7 +18,7 @@ function About() {
           We are a voluntary group who regulary put on our gardening gloves to garden the public 
           spaces in South Chingford. Our aim is to improve the look and feel of the area and to 
           create a sense of community for all its residents.
-      </P>  
+      </p>  
       <p>
           We organise and run various different seasonal events like the Christmas tree switch on at Albert Crescent
           and Easter markets and regulary run a repair shop in 228 Chingford Mount.

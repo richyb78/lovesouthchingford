@@ -16,9 +16,7 @@ function Gallery() {
                                    </p>
       <GardeningGallery />
       <h3 className="galleryTitle">Easter at Chingford Mount</h3>
-      <p className="galleryblurb">We have organised Easter markets situated around Albert Crescent. The Easter markets bring exitement 
-                                  as families browse colorful handmade crafts, sample seasonal treats, 
-                                  and joine in festive activities celebrating spring.
+      <p className="galleryblurb">We have organised Easter markets situated around Albert Crescent where the community can join in festive activities celebrating spring.
                                    </p>
       <EasterGallery />
       <h3 className="galleryTitle">Christmas Tree Switch on Event</h3>
