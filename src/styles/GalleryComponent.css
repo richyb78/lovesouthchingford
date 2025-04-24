@@ -8,13 +8,13 @@
 
 .galleryWrap .single {
     display: flex;
-    width: 200px;
+    width: 300px;
     cursor: pointer;
    
 }
 
 .galleryWrap .single img {
-    max-width: 200px;
+    max-width: 300px;
 }
 
 .sliderWrap {

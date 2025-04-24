@@ -1,4 +1,3 @@
-import { imageListItemClasses } from "@mui/material";
 
 const easterImages = [
 {
