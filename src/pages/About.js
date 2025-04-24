@@ -32,19 +32,24 @@ function About() {
       </p>
       <p>
           
-          Here is an update of our achievements over the last 3 years:
+          Here are some of our achievements over the last 3 years:
       </p>
+      <div className='listContainer'>
       <ul>
           <li>Planted and maintain flower beds and secured new trees along our High Street.</li>
           <li>Entered into London in Bloom flower comptition.</li>
           <li>Redesigned and maintain flower beds at the entrance to Chingford Cemetery.</li>
-          <li>Help restore Memorial Park pond.</li>
-          <li>Help secure renovation to Memorial Park main entrance (ongoing).</li>
+          <li>Restored Memorial Park pond.Quite often 2 ducks can be seen in residence!</li>
+          <li>Help secure renovation to Memorial Park main entrance.</li>
           <li>Helped promote PSPO (Public Space Protection Order).</li>
           <li>Organised for two emergency defibrillator machines to be installed at Chingford Mount.</li>
           <li>Secured a Christmas tree to be proud of on Albert Crescent.</li>
-          <li>Organised the Christmas Switch-on event on Albert Crescent</li>
-          </ul>
+          <li>Organised the Christmas Switch-on event on Albert Crescent which is now held on the first Saturday 
+              in December at St Edmunds Hall.</li>
+          <li>Each year we have funded and installed poppies along Old Church Road in remembrance of all who sacrificed their lives in WW2.</li>
+          <li>Organised installation and maintance of 2 defibrillators at Chingford Mount.</li>
+        </ul>
+        </div>
         <p>
               Membership is open to volunteers of all ages & abilities including supervised children. 
         </p>

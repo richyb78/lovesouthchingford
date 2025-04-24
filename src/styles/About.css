@@ -23,6 +23,17 @@
 
   .aboutBottom ul {
     width: 1200px;
+    background-color: #40A674;
+    border-radius: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+  .aboutBottom ul li {
+   font-weight: 600;
+   color: white;
+   padding-top: 15px;
+   padding-bottom: 15px;
   }
   
   .aboutTop {
@@ -76,5 +87,6 @@
 
   .aboutBottom ul {
     width: 315px;
+    list-style-type: none;
   }
 }

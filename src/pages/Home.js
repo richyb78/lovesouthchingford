@@ -15,7 +15,6 @@ function Home() {
         <button>Find Out More!</button>
         </Link>
       </div>
-      
     </div>
   )
 }
